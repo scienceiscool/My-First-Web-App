@@ -1,4 +1,4 @@
-#CPSC 473 - Web Programming and Data Management
+#CPSC 473 - Web Programming & Data Management
 ##My first web app :)
 
 __Description:__ In this project, I am just experimenting with HTML and CSS, following along from page 53 of Semmy Purewal's Learning Web App Development.<br>
