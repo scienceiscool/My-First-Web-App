@@ -1,7 +1,7 @@
 ##My first Web app
 ###Chapter 3 of Semmy Purewal's Learning Web App Development
 
-__Description:__ In this project, I am just experimenting with HTML and CSS, following along from page 53 of Semmy Purewal's Learning Web App Development.
+__Description:__ In this project, I am just experimenting with HTML and CSS.
 
 __Status:__ Working
 
