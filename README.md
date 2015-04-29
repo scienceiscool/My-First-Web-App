@@ -5,4 +5,5 @@ __Description:__ In this project, I am just experimenting with HTML and CSS.
 
 __Status:__ Working
 
-__Tip:__ Use the browser's dev tools! They're helpful for this kind of thing.
+_Tip:_
+- Use the browser's dev tools! They're helpful for this kind of thing.
